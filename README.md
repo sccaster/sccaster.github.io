@@ -32,6 +32,6 @@ My interests are very tame but here is a list to sort them out:
     pool of all time coming in at 40 million dollars.
 
   - [Escape From Tarkov](https://www.escapefromtarkov.com/?utm_source=launcher&utm_medium=menu&utm_campaign=head&utm_term=expansions_link) - Escape From Tarkov is the
-  Russian build extraction shooter that started a genre craze from the early 2020's to our current year of 2025.
+  Russian-built extraction shooter that started a genre craze from the early 2020's to our current year of 2025.
   With complex gun customization and an unforgiving gameplay loop, this game has captivated the shooting genre for years
   and makes its 1.0 debut this year.
