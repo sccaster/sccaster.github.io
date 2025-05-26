@@ -11,18 +11,18 @@ erDiagram
     int quantity
     float pricePerUnit
   }
-  CUSTOMER ||..|{ SALE : makes a purchase
+  CUSTOMER ||..|{ SALE : makes_a_purchase
   CUSTOMER {
     string firstName
     string lastName
     int age
   }
-  SALE ||--|| CUSTOMER : made by
+  SALE ||--|| CUSTOMER : made_by
   SALE {
     int numOfProducts
     float priceOfSale
   }
-  INVENTORY ||..|{ SALE : exchanges product for
+  INVENTORY ||..|{ SALE : exchanges_product_for
   INVENTORY {
     int numOfDistinctProducts
     
