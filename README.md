@@ -24,9 +24,9 @@ My interests are very tame but here is a list to sort them out:
 
 ## Video Games I Recommend
   - [Minecraft](https://www.minecraft.net/en-us) - Minecraft is now 16 years old but continues to
-  - update and ferment like a fine wine. That is not even taking into consideration the modding
-  - atmosphere that surrounds it.
+    update and ferment like a fine wine. That is not even taking into consideration the modding
+    atmosphere that surrounds it.
 
   - [Dota 2](https://www.dota2.com/home) - Dota 2 is Steam's game platform of what once was a mod for
-  - Warcraft 3. However, in the esports world it has produced tournaments with the largest grossing prize
-  - pool of all time coming in at 40 million dollars.
+    Warcraft 3. However, in the esports world it has produced tournaments with the largest grossing prize
+    pool of all time coming in at 40 million dollars.
