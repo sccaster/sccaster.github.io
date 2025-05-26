@@ -29,7 +29,7 @@ erDiagram
     
   }
   CUSTOMER ||..|{ SALE : makes_a_purchase
-  INVENTORY ||..|{ SALE : exchanges_product_for
+  INVENTORY ||..|{ PRODUCT : contains
   PRODUCT }o--||INVENTORY : in
-  SALE ||--|| CUSTOMER : made_by
+  SALE ||--|{ PRODUCT : exchanges_for_money
 ```
