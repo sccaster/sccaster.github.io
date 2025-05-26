@@ -31,5 +31,5 @@ erDiagram
   CUSTOMER ||..|{ SALE : makes_a_purchase
   INVENTORY ||..|{ PRODUCT : contains
   PRODUCT }o--||INVENTORY : in
-  SALE ||--|{ PRODUCT : exchanges_for_money
+  SALE ||..|{ PRODUCT : exchanges_for_money
 ```
