@@ -1,9 +1,9 @@
+
+
+'''mermaid
 ---
 title: Nike Shoe Store
 ---
-
-'''mermaid
-
 erDiagram
   PRODUCT }o--||INVENTORY : in
   PRODUCT {
