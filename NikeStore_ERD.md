@@ -1,5 +1,5 @@
+```mermaid
 
-'''mermaid
 erDiagram
 ---
 title: Nike Shoe Store
@@ -27,4 +27,4 @@ title: Nike Shoe Store
     int numOfDistinctProducts
     
   }
-'''
+```
