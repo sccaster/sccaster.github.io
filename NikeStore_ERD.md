@@ -1,6 +1,10 @@
 
 
-'''mermaiderDiagram
+'''mermaid
+---
+title: Nike Shoe Store
+---
+erDiagram
   PRODUCT }o--||INVENTORY : in
   PRODUCT {
     string product_name
