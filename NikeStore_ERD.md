@@ -1,9 +1,9 @@
 ```mermaid
-
-erDiagram
 ---
 title: Nike Shoe Store
 ---
+erDiagram
+
 
   PRODUCT }o--||INVENTORY : in
   PRODUCT {
